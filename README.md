@@ -1,7 +1,7 @@
 # ☢️ I Am HazmatPants
 
 - 🔭 Currently working on [GIchat](https://github.com/HazmatPants/GIchat-server), a little chat program aimed to be an alternative to Discord (eventually) and a few other side projects.
-- 🌱 Learning Java ☕
+- 🌱 Learning GDScript to make games in Godot Engine
 
 # 📫 Contact
 - Discord: @hazmatpants
