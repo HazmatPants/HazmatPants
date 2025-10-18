@@ -1,7 +1,5 @@
 # ☢️ Hello
 
-> Moving to [Codeberg](https://codeberg.org/HazmatPants)
-
 I am HazmatPants :D
 
 - 🔭 Currently working on [TunnelShooter](https://github.com/HazmatPants/tunnelshooter), a game i'm making in Godot and a few other side projects.
