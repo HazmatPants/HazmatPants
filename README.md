@@ -7,6 +7,7 @@ I am HazmatPants :D
 
 # 📫 Contact
 - Discord: @hazmatpants
+- Discord server for my projects: https://discord.gg/G3ECCdZVFz
 - Element: @hazmatpants:matrix.org (less active than discord)
 - My username is `HazmatPants` pretty much everywhere
 
