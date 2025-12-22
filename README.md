@@ -6,10 +6,10 @@ I am HazmatPants :D
 - 🌱 Learning GDScript to make games in Godot Engine
 
 # 📫 Contact
-- Discord: @hazmatpants
-- Telegram: https://t.me/HazmatPants
+- Discord: @hazmatpants (less active)
+- Telegram: https://t.me/HazmatPants (most active)
 - Discord server for my projects: https://discord.gg/G3ECCdZVFz
-- Element: @hazmatpants:matrix.org (less active than discord)
+- Element: @hazmatpants:matrix.org (least active)
 - My username is `HazmatPants` pretty much everywhere
 
 Go to my personal [GitHub pages site](https://hazmatpants.github.io/) for more stuff about me
