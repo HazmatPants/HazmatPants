@@ -15,7 +15,7 @@ Go to my [personal GitHub pages site](https://hazmatpants.github.io/) for more a
 - My username is `HazmatPants` pretty much everywhere
 
 # Social
-- Mastodon: @HazmatPants@mastodon.social
-- Bluesky: @hazmatpants.bsky.social
-- YouTube: https://youtube.com/@hazmatpants
+- Mastodon: [@HazmatPants@mastodon.social](https://mastodon.social/@HazmatPants)
+- Bluesky: [@hazmatpants.bsky.social](https://bsky.app/profile/hazmatpants.bsky.social)
+- YouTube: [@hazmatpants](https://youtube.com/@hazmatpants)
 
