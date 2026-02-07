@@ -1,15 +1,21 @@
-# ☢️ Hello
+# ☢️ Hello!
 
 I am HazmatPants :D
 
-- 🔭 Currently working on [TunnelShooter](https://github.com/HazmatPants/tunnelshooter), a game i'm making in Godot and a few other side projects.
+# About me
 - 🌱 Learning GDScript to make games in Godot Engine
+- 🌱 Learning Python and Bash to make programs
 
-# 📫 Contact
-- Discord: @hazmatpants (less active)
+Go to my [personal GitHub pages site](https://hazmatpants.github.io/) for more about me.
+
+# Contact
 - Telegram: https://t.me/HazmatPants (most active)
-- Discord server for my projects: https://discord.gg/G3ECCdZVFz
-- Element: @hazmatpants:matrix.org (least active)
+- Discord: @hazmatpants (slightly less active)
+- Discord server: https://discord.gg/G3ECCdZVFz
 - My username is `HazmatPants` pretty much everywhere
 
-Go to my personal [GitHub pages site](https://hazmatpants.github.io/) for more stuff about me
+# Social
+- Mastodon: @HazmatPants@mastodon.social
+- Bluesky: @hazmatpants.bsky.social
+- YouTube: https://youtube.com/@hazmatpants
+
