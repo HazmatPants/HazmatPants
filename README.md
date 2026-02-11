@@ -10,8 +10,7 @@ Go to my [personal GitHub pages site](https://hazmatpants.github.io/) for more a
 
 # Contact
 - Telegram: https://t.me/HazmatPants (most active)
-- Discord: @hazmatpants (slightly less active)
-- Discord server: https://discord.gg/G3ECCdZVFz
+- Discord: @hazmatpants (barely active)
 - My username is `HazmatPants` pretty much everywhere
 
 # Social
